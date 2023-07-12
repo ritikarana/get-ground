@@ -1,6 +1,6 @@
 To run the Project , Please follow the Instructions
 
-SSH setting please follow the : https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+For SSH setting please follow this : https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
  Clone the Repo : 
 `git clone git@github.com:ritikarana/get-ground.git`
