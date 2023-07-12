@@ -1,5 +1,12 @@
 To run the Project , Please follow the Instructions
 
+SSH setting please follow the : https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+ Clone the Repo : 
+`git clone git@github.com:ritikarana/get-ground.git`
+
+Install the Dependencies : 
+
 `yarn install`
 
 `yarn build `
@@ -39,3 +46,4 @@ Redux Reducer Unit Test :  `src/redux/slices/bookSlice.test.js`
 5. Host your code on Github, put all the code in a Pull Request against the (probably) empty repo. Please also compile your files in a zip file and upload as well as your Github code. 
 
 Due to High office work load i am not able to achieve one unit test case for the component and optional points. 
+
