@@ -1,14 +1,14 @@
 To run the Project , Please follow the Instructions
 
-yarn install
+`yarn install`
 
-yarn build 
+`yarn build `
 
-yarn start
+`yarn start`
 
 To run the test cases : 
 
-yarn test
+`yarn test`
 
 According to the Assignment , i need to cover the following points : 
 
@@ -22,8 +22,6 @@ Requirements:
     Avoiding duplicate requests for the same data
     Managing cache lifetimes as the user interacts with the UI
 
-      
-      
 
 2. The app should be paginated with the pagination reflected in the url (so when the page is refreshed, the same results are shown). - Done
 
@@ -36,7 +34,7 @@ Requirements:
 4. Write one unit test for a component and one test for the Redux reducer. 
 
 
-`Redux Reducer Unit Test :  `src/redux/slices/bookSlice.test.js``
+Redux Reducer Unit Test :  `src/redux/slices/bookSlice.test.js`
 
 5. Host your code on Github, put all the code in a Pull Request against the (probably) empty repo. Please also compile your files in a zip file and upload as well as your Github code. 
 
