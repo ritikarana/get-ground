@@ -6,15 +6,15 @@ For SSH setting please follow this : https://docs.github.com/en/authentication/c
 `git clone git@github.com:ritikarana/get-ground.git`
 
 Install the Dependencies : 
-
 `yarn install`
 
+Build the Repo: 
 `yarn build `
 
+Run the Project :
 `yarn start`
 
 To run the test cases : 
-
 `yarn test`
 
 According to the Assignment , i need to cover the following points : 
