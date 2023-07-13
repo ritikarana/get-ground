@@ -47,3 +47,5 @@ Redux Reducer Unit Test :  `src/redux/slices/bookSlice.test.js`
 
 Due to High office work load i am not able to achieve one unit test case for the component and optional points. 
 
+I tried to implemented the search navigation too , Passing params in filters `filters:[{type: "all", values: ["YOUR_SEARCH_FIELD_CONTENTS"]}] ` . It is giving me same result
+
